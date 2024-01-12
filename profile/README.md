@@ -5,4 +5,4 @@
 You may not see much here I'm afraid as we're busy working behind the scenes to help our clients get to net zero.
 
 # Security
-Please see our [Security](/bohr-uk/.github/SECURITY.md) page if you need to raise an issue.
+Please see our [Security](https://github.com/bohr-uk/.github/SECURITY.md) page if you need to raise an issue.
